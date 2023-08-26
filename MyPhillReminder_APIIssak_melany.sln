@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhillReminder_APIIssak_melany", "MyPhillReminder_APIIssak_melany\MyPhillReminder_APIIssak_melany.csproj", "{B60C5213-D0E6-4B8A-8672-E04E760F6238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B60C5213-D0E6-4B8A-8672-E04E760F6238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60C5213-D0E6-4B8A-8672-E04E760F6238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60C5213-D0E6-4B8A-8672-E04E760F6238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60C5213-D0E6-4B8A-8672-E04E760F6238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A78D0E-4F10-417C-A78F-7B664806F518}
+	EndGlobalSection
+EndGlobal
